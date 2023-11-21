@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/iggypunx/go-course/pkg/config"
-	"github.com/iggypunx/go-course/pkg/models"
-	"github.com/iggypunx/go-course/pkg/render"
+	"github.com/iggypunx/bookings/pkg/config"
+	"github.com/iggypunx/bookings/pkg/models"
+	"github.com/iggypunx/bookings/pkg/render"
 )
 
 // repository used by the handlers

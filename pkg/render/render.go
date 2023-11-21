@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/iggypunx/go-course/pkg/config"
-	"github.com/iggypunx/go-course/pkg/models"
+	"github.com/iggypunx/bookings/pkg/config"
+	"github.com/iggypunx/bookings/pkg/models"
 )
 
 var functions = template.FuncMap{}
